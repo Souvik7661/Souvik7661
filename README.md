@@ -1,5 +1,7 @@
 💫 Hi 👋, I'm Souvik Kundu
 
+An aspiring Full-Stack Web Developer and an Software Developer 
+
 Email Me 👉 ✉️ souvikk075@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I’m currently working on: My peronal AI assistant
