@@ -16,6 +16,7 @@ Email Me 👉 ✉️ souvikk075@gmail.com For Collaboration/Project or Anything 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Souvik7661&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Souvik7661&theme=dark&hide_border=false)<br/>
