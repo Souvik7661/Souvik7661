@@ -69,17 +69,12 @@ Status : ONLINE
 </p>
 
 ```text
-█████████████████████████████████████
 
 User: Souvik Kundu
 Mode: Coding
-
 CPU: ███████████████ 100%
-Coffee: ███████████░░
 Bugs: Eliminating...
 Deploy: Ready
-
-█████████████████████████████████████
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:7C3AED,50:06B6D4,100:000428"/>
