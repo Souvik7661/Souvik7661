@@ -10,7 +10,9 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&repeat=true&width=900&lines=██████████████████████████████;Welcome+to+my+GitHub+Universe.;Building+Amazing+Projects.;Always+Learning+New+Technologies.;Turning+Ideas+Into+Reality.;██████████████████████████████"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Souvik+Kundu;Computer+Science+Engineering+Student;Full-Stack+Developer;AI+%7C+Cloud+%7C+Open+Source+Enthusiast;Building+the+Future+with+Code+🚀" />
+</p>
 
 </p>
 
