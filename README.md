@@ -6,7 +6,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,15:004e92,35:2563EB,60:06B6D4,85:7C3AED,100:000428&text=SOUVIK%20KUNDU&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,15:004e92,35:2563EB,60:06B6D4,85:7C3AED,100:000428&text=𝓢𝓞𝓤𝓥𝓘𝓚%20𝓚𝓤𝓝𝓓𝓤&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student&descAlignY=65"/>
 
 <p align="center">
 
@@ -70,11 +70,12 @@ Status : ONLINE
 
 ```text
 
-User: Souvik Kundu
-Mode: Coding
-CPU: ███████████████ 100%
-Bugs: Eliminating...
-Deploy: Ready
+𝒰𝓈𝑒𝓇: 𝒮𝑜𝓊𝓋𝒾𝓀 𝒦𝓊𝓃𝒹𝓊
+𝑀𝑜𝒹𝑒: 𝒞𝑜𝒹𝒾𝓃𝑔
+
+𝒞𝒫𝒰: ███████████████ 100%
+𝐵𝓊𝑔𝓈: 𝐸𝓁𝒾𝓂𝒾𝓃𝒶𝓉𝒾𝓃𝑔...
+𝒟𝑒𝓅𝓁𝑜𝓎: 𝑅𝑒𝒶𝒹𝓎
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:7C3AED,50:06B6D4,100:000428"/>
