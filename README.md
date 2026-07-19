@@ -49,6 +49,7 @@ Status : ONLINE
 
 <p align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik7661&layout=donut&theme=tokyonight&hide_border=true"/>
 
 </p>
 
