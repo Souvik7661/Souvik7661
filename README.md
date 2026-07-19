@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dtwed8xlvz466vor52knj6g7g&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true"/>
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dtwed8xlvz466vor52knj6g7g&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
+</a>
 
 </div>
 
@@ -14,6 +16,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
 
+```text
 > booting...
 
 Loading kernel...
@@ -26,8 +29,8 @@ Loading AI...
 ✔ System Ready.
 
 User : Souvik Kundu
-
 Status : ONLINE
+```
 
 <p align="center">
 
@@ -45,11 +48,9 @@ Status : ONLINE
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik7661&layout=donut&theme=tokyonight&hide_border
-  =true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik7661&layout=donut&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 
 <p align="center">
 
@@ -65,20 +66,18 @@ Status : ONLINE
 
 </p>
 
+```text
 █████████████████████████████████████
 
 User: Souvik Kundu
-
 Mode: Coding
 
 CPU: ███████████████ 100%
-
 Coffee: ███████████░░
-
 Bugs: Eliminating...
-
 Deploy: Ready
 
 █████████████████████████████████████
+```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:7C3AED,50:06B6D4,100:000428"/>
