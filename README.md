@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,70:16213e,100:0d1117&height=220&section=header&text=Souvik%20Kundu&fontSize=72&fontColor=#06B6D4&fontAlignY=40&desc=CSE%20Student%20·%20Backend%20Developer%20·%20Community%20Builder&descSize=15&descAlignY=62&descColor=8b949e&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,70:16213e,100:0d1117&height=220&section=header&text=Souvik%20Kundu&fontSize=72&fontColor=06B6D4&fontAlignY=40&desc=CSE%20Student&descSize=15&descAlignY=62&descColor=8b949e&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=560&lines=FastAPI+%2B+Python+Backend+Developer;Building+towards+Full+Stack;Oracle+%26+SAP+Community+Member;2nd+Year+CSE+%40+Kolkata;Always+shipping%2C+always+learning." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=560&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
+</div>
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kuntal-das-k&color=58A6FF&style=flat-square&label=Profile+Views)
