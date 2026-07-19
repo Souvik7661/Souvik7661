@@ -62,6 +62,7 @@ Status : ONLINE
 
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=160&color=0:06B6D4,50:2563EB,100:7C3AED"/>
 
 <p align="center">
 
