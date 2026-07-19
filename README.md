@@ -66,8 +66,9 @@ Status : ONLINE
 
 <p align="center">
 
-<img width="850" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
-
+<p align="center">
+<img width="850" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</p>
 </p>
 
 ```text
