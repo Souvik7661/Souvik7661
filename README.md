@@ -1,137 +1,231 @@
+<!-- ============================================= -->
+<!--              AI CORE TERMINAL                -->
+<!-- ============================================= -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,40:2563EB,70:06B6D4,100:7C3AED&text=SOUVIK%20KUNDU&fontColor=ffffff&fontSize=70&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student&descAlignY=63"/>
+# ⚡ JARVIS AI CORE
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Hello+World!;Welcome+to+my+GitHub.;Building+the+Future.;Always+Learning.;Always+Shipping."/>
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   ██╗ █████╗ ██████╗ ██╗   ██╗██╗███████╗                           ║
+║   ██║██╔══██╗██╔══██╗██║   ██║██║██╔════╝                           ║
+║   ██║███████║██████╔╝██║   ██║██║███████╗                           ║
+║██   ██║██╔══██║██╔══██╗╚██╗ ██╔╝██║╚════██║                         ║
+║╚█████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║███████║                         ║
+║ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝                         ║
+║                                                                    ║
+║               Artificial Intelligence System                       ║
+║                                                                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
-
-<div align="center">
-
-# 🤖 JARVIS INITIALIZATION
-
-</div>
 
 ```console
-██████████████████████████████████████
+──────────────────────────────────────────────────────────────
 
-SYSTEM BOOTING...
+> Initializing AI Core...
 
-Loading AI Core.....................OK
+█████████████████████████████████████ 100%
 
-Loading Developer Profile...........OK
+Loading Neural Engine..............OK
 
-Loading GitHub Statistics...........OK
+Loading Knowledge Base.............OK
 
-Loading Projects....................OK
+Loading GitHub Repository..........OK
 
-Loading Skills......................OK
+Loading Developer Identity.........OK
 
-Authentication......................SUCCESS
+Loading Coding Environment.........OK
 
-Welcome Back,
-Souvik Kundu.
+Synchronizing Cloud................OK
 
-██████████████████████████████████████
+Neural Network Status..............ONLINE
+
+Quantum Cache......................ONLINE
+
+Developer Detected.................SOUVIK KUNDU
+
+Authentication.....................SUCCESS
+
+──────────────────────────────────────────────
+
+SYSTEM READY
+
+──────────────────────────────────────────────
 ```
 
 ---
 
-# 👨‍💻 About Me
+# 🧠 AI SYSTEM STATUS
 
 ```yaml
-Name:
+AI Version:
+  JARVIS 7.2
+
+Developer:
   Souvik Kundu
 
-Role:
-  Computer Science Engineering Student
+CPU Usage:
+  ████████░░ 82%
 
-Location:
-  West Bengal, India
+Memory:
+  █████████░ 91%
 
-Currently Learning:
-  - Spring Boot
-  - React
-  - Node.js
-  - Artificial Intelligence
+GPU:
+  ███████░░░ 74%
 
-Goals:
-  - Build impactful software
-  - Contribute to Open Source
-  - Become Full Stack Engineer
+AI Accuracy:
+  99.98%
 
-Status:
-  Coding...
+Network:
+  Connected
+
+Threat Detection:
+  None
+
+Mission:
+  Build Amazing Software
+
+Mood:
+  Focused ☕
+
+Power:
+  Infinite
 ```
 
 ---
 
 <div align="center">
 
-## 🌐 Connect With Me
+# 🛰 LIVE RADAR
 
-<a href="https://github.com/Souvik7661">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=06B6D4"/>
-</a>
+```text
+                    ▲
+            ▲               ▲
 
-<a href="https://linkedin.com/in/souvik-kundu-0277593b1">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+      ◉───────────────◉
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+         ╲           ╱
 
-</div>
+      ◉─────◎─────◉
 
----
+         ╱           ╲
 
-<div align="center">
+      ◉───────────────◉
 
-## ⚡ Tech Arsenal
+            ▼               ▼
 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,spring,mysql,postgres,git,github,docker,linux,vscode&perline=8"/>
+Scanning GitHub Universe...
 
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Overview
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Souvik7661&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Souvik7661&theme=tokyonight&hide_border=true"/>
+Repositories Found...
+Projects Indexed...
+Learning Progress Updated...
+```
 
 </div>
 
 ---
 
-<div align="center">
+# 🤖 AI MEMORY
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik7661&layout=compact&theme=tokyonight&hide_border=true"/>
+```python
+class Souvik:
 
-</div>
+    def __init__(self):
+
+        self.role = "Computer Science Engineer"
+
+        self.learning = [
+            "React",
+            "Spring Boot",
+            "Node.js",
+            "Artificial Intelligence"
+        ]
+
+        self.goal = "Become World-Class Software Engineer"
+
+        self.status = "Coding"
+
+        self.energy = "∞"
+
+        self.coffee = "Always"
+
+    def execute(self):
+
+        while True:
+
+            Learn()
+
+            Build()
+
+            Improve()
+
+            Repeat()
+```
 
 ---
 
 <div align="center">
 
-## 🎵 Coding Music
+# ⚡ POWER CORE
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dtwed8xlvz466vor52knj6g7g&cover_image=true&theme=novatorem"/>
+```
+                 ███████████
+
+             ████░░░░░░████
+
+         ████░░██████░░████
+
+       ███░░██████████░░███
+
+       ███░░██████░░██░░███
+
+         ████░░░░░░░░████
+
+             █████████
+
+          AI CORE ONLINE
+```
 
 </div>
 
 ---
 
+# ⚙ SYSTEM LOG
+
+```text
+[12:01] Boot Complete
+
+[12:02] Loading Projects
+
+[12:03] Compiling Java
+
+[12:04] Starting Spring Boot
+
+[12:05] Connecting PostgreSQL
+
+[12:06] Deploying React Frontend
+
+[12:07] Git Commit Completed
+
+[12:08] Pushing to GitHub
+
+[12:09] Build Successful
+
+[12:10] Awaiting Next Mission...
+```
+
+---
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+# 🌌 AI MOTTO
 
-⭐ **"Dream • Code • Build • Repeat"**
+> **"Code is not just syntax. It's intelligence transformed into reality."**
 
 </div>
