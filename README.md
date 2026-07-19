@@ -45,7 +45,7 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dtwed8xlvz466vor52knj6g7g&cover_image=true&theme=novatorem"/>
 
 </div>
 
@@ -92,23 +92,29 @@ Name: Souvik Kundu
 
 Focus:
   - Full Stack Development
-  - DSA
+  - Data Structures & Algorithms
+  - Artificial Intelligence
   - Open Source
 
 Languages:
   - Java
   - Python
   - JavaScript
+  - SQL
 
 Frameworks:
   - React
+  - Node.js
   - Spring Boot
 
 Database:
   - MySQL
   - PostgreSQL
 
-IDE:
+Tools:
+  - Git
+  - GitHub
+  - Docker
   - VS Code
 ```
 
