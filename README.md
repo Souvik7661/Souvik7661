@@ -6,7 +6,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,15:004e92,35:2563EB,60:06B6D4,85:7C3AED,100:000428&text=𝓢𝓞𝓤𝓥𝓘𝓚%20𝓚𝓤𝓝𝓓𝓤&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,15:004e92,35:2563EB,60:06B6D4,85:7C3AED,100:000428&text=𝓢𝓞𝓤𝓥𝓘𝓚  𝓚𝓤𝓝𝓓𝓤&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student&descAlignY=65"/>
 
 <p align="center">
 
