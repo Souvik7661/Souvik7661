@@ -18,7 +18,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
 
-```text
+⁠ text
 > booting...
 
 Loading kernel...
@@ -30,7 +30,7 @@ Loading AI...
 
 User : Souvik Kundu
 Status : ONLINE
-```
+ ⁠
 
 <p align="center">
 
@@ -68,14 +68,13 @@ Status : ONLINE
 </p>
 </p>
 
-```text
+⁠ text
 
 𝒰𝓈𝑒𝓇: 𝒮𝑜𝓊𝓋𝒾𝓀 𝒦𝓊𝓃𝒹𝓊
 𝑀𝑜𝒹𝑒: 𝒞𝑜𝒹𝒾𝓃𝑔
-
 𝒞𝒫𝒰: ███████████████ 100%
 𝐵𝓊𝑔𝓈: 𝐸𝓁𝒾𝓂𝒾𝓃𝒶𝓉𝒾𝓃𝑔...
 𝒟𝑒𝓅𝓁𝑜𝓎: 𝑅𝑒𝒶𝒹𝓎
-```
+ ⁠
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:7C3AED,50:06B6D4,100:000428"/>
