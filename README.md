@@ -1,11 +1,17 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000428,25:004e92,50:2563EB,75:06B6D4,100:7C3AED&text=SOUVIK%20KUNDU&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Computer%20Science%20Engineering%20Student%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=60&descSize=20"/>
+
+<p align="center">
+  <img src="https://github.com/Souvik7661.png" width="140" alt="Souvik Kundu GitHub Profile Picture"/>
+</p>
 
 <br/>
 
 <!-- DYNAMIC TYPING HEADER -->
+
 <a href="https://github.com/Souvik7661">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Welcome+to+my+Cyber-Space%21;%F0%9F%92%BB+Computer+Science+Engineering+Student;%F0%9F%9A%80+Full-Stack+%26+Cloud+Native+Architect;%F0%9F%A4%96+AI%2C+Machine+Learning+%26+Open-Source;%E2%9A%A1+Architecting+Scalable+Digital+Experiences" alt="Typing SVG" />
 </a>
@@ -13,6 +19,7 @@
 <br/><br/>
 
 <!-- BADGES BAR -->
+
 <p align="center">
   <a href="https://github.com/Souvik7661">
     <img src="https://img.shields.io/github/followers/Souvik7661?label=Followers&logo=github&style=for-the-badge&color=00F7FF&labelColor=0d1117" alt="Followers"/>
@@ -26,29 +33,13 @@
 <br/>
 
 <!-- TERMINAL BANNER -->
-```shell
-  ⚡ souvik@kernel:~ $ neofetch
-  
-     ███████╗ ██████╗ ██╗   ██╗██╗   ██╗██╗██╗  ██╗
-     ██╔════╝██╔═══██╗██║   ██║██║   ██║██║██║ ██╔╝
-     ███████╗██║   ██║██║   ██║██║   ██║██║█████═╝ 
-     ╚════██║██║   ██║██║   ██║╚██╗ ██╔╝██║██  ██╗ 
-     ███████║╚██████╔╝╚██████╔╝ ╚████╔╝ ██║██║  ██╗
-     ╚══════╝ ╚═════╝  ╚═════╝   ╚═══╝  ╚═╝╚═╝  ╚═╝
-  ───────────────────────────────────────────────────────────
-  • OS              : macOS Sequoia / Linux Ubuntu
-  • User            : Souvik Kundu (@Souvik7661)
-  • Major           : Computer Science & Engineering
-  • Architecture    : Full-Stack • Microservices • Cloud & AI
-  • Core Stack      : Java • Python • C++ • React • Node.js • Spring • Docker
-  • Status          : ONLINE ⚡ (Building futuristic software)
-  • Code Philosophy : "First, solve the problem. Then, write the code."
-  ───────────────────────────────────────────────────────────
-```
+
+```shell⚡ souvik@kernel:~ $ neofetch███████╗ ██████╗ ██╗   ██╗██╗   ██╗██╗██╗  ██╗██╔════╝██╔═══██╗██║   ██║██║   ██║██║██║ ██╔╝███████╗██║   ██║██║   ██║██║   ██║██║█████═╝╚════██║██║   ██║██║   ██║╚██╗ ██╔╝██║██  ██╗███████║╚██████╔╝╚██████╔╝ ╚████╔╝ ██║██║  ██╗╚══════╝ ╚═════╝  ╚═════╝   ╚═══╝  ╚═╝╚═╝  ╚═╝───────────────────────────────────────────────────────────• OS              : macOS Sequoia / Linux Ubuntu• User            : Souvik Kundu (@Souvik7661)• Major           : Computer Science & Engineering• Architecture    : Full-Stack • Microservices • Cloud & AI• Core Stack      : Java • Python • C++ • React • Node.js • Spring • Docker• Status          : ONLINE ⚡ (Building futuristic software)• Code Philosophy : "First, solve the problem. Then, write the code."───────────────────────────────────────────────────────────```
 
 <br/>
 
 <!-- ABOUT ME & SPOTIFY SECTION -->
+
 <h2 align="center">⚡ About Me & Live Spotify Workspace</h2>
 
 <p align="center">
@@ -57,19 +48,14 @@
   </a>
 </p>
 
-> 🎓 **Computer Science & Engineering Undergraduate** dedicated to creating high-performance web applications, distributed backend services, and exploring Artificial Intelligence solutions.
+🎓 **Computer Science & Engineering Undergraduate** dedicated to creating high-performance web applications, distributed backend services, and exploring Artificial Intelligence solutions.
 
-### 🔭 Executive Overview
-- 🎓 **Education**: B.Tech in Computer Science & Engineering
-- 💼 **Primary Domains**: Full-Stack Web Development, Backend Architecture, Cloud Services, AI/ML
-- 🚀 **Current Focus**: Scaling RESTful Microservices with **Spring Boot**, **Node.js**, and **React**
-- 🧠 **Exploring**: Deep Learning Pipelines, Distributed Caching (Redis), and Container Orchestration
-- 💬 **Ask Me About**: Java Architecture, Python Data Structures, System Design, Frontend UX
-- 📫 **Contact**: Connect with me on [LinkedIn](https://linkedin.com) or reach out via [Email](mailto:souvikkundu@example.com)
+### 🔭 Executive Overview- 🎓 **Education**: B.Tech in Computer Science & Engineering- 💼 **Primary Domains**: Full-Stack Web Development, Backend Architecture, Cloud Services, AI/ML- 🚀 **Current Focus**: Scaling RESTful Microservices with **Spring Boot**, **Node.js**, and **React**- 🧠 **Exploring**: Deep Learning Pipelines, Distributed Caching (Redis), and Container Orchestration- 💬 **Ask Me About**: Java Architecture, Python Data Structures, System Design, Frontend UX- 📫 **Contact**: Connect with me on LinkedIn or reach out via GitHub
 
 <br/>
 
 <!-- SKILLS & TECH STACK SECTION -->
+
 <h2 align="center">💻 Tech Arsenal & Tooling Matrix</h2>
 
 <div align="center">
@@ -118,17 +104,18 @@
 <br/>
 
 <!-- FEATURED PROJECTS SHOWCASE -->
+
 <h2 align="center">🚀 Featured Open Source Projects</h2>
 
 <div align="center">
 
 <p align="center">
   <a href="https://github.com/Souvik7661">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Souvik7661&repo=Souvik7661&theme=tokyonight&hide_border=true" alt="Featured Repo 1" width="48%"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Souvik7661&repo=Souvik7661&theme=tokyonight&hide_border=true" alt="Featured Repo 1" width="48%"/>
   </a>
   &nbsp;
   <a href="https://github.com/Souvik7661">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Souvik7661&repo=Readme&theme=tokyonight&hide_border=true" alt="Featured Repo 2" width="48%"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Souvik7661&repo=Souvik7661&theme=tokyonight&hide_border=true" alt="Featured Repo 2" width="48%"/>
   </a>
 </p>
 
@@ -137,11 +124,13 @@
 <br/>
 
 <!-- GITHUB PERFORMANCE GRAPH & ANALYTICS -->
+
 <h2 align="center">📈 GitHub Performance & Activity Metrics</h2>
 
 <div align="center">
 
 <!-- ACTIVITY GRAPH -->
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souvik7661&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
 </p>
@@ -149,17 +138,19 @@
 <br/>
 
 <!-- STREAK STATS -->
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Souvik7661&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%"/>
+  <img src="https://streak-stats.demolab.com/?user=Souvik7661&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%"/>
 </p>
 
 <br/>
 
 <!-- STATS CARDS -->
+
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Souvik7661&show_icons=true&theme=tokyonight&hide_border=true" alt="Souvik's GitHub Stats" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Souvik7661&show_icons=true&theme=tokyonight&hide_border=true" alt="Souvik's GitHub Stats" width="48%"/>
   &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Souvik7661&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Souvik7661&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 </div>
@@ -167,6 +158,7 @@
 <br/>
 
 <!-- DYNAMIC DEVELOPER QUOTE CARD -->
+
 <h2 align="center">💡 Dev Insights & Thought</h2>
 
 <div align="center">
@@ -176,28 +168,23 @@
 <br/>
 
 <!-- CODING ANIMATION & HUD STATUS -->
+
 <h2 align="center">⚡ Telemetry & Operating Mode</h2>
 
 <div align="center">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" width="480" style="border-radius: 12px;"/>
+  <img src="https://github.com/Souvik7661.png" alt="Souvik Kundu" width="480" style="border-radius: 12px;"/>
 </p>
 
-```text
- 𝒰𝓈𝑒𝓇      :  𝒮𝑜𝓊𝓋𝒾𝓀  𝒦𝓊𝓃𝒹𝓊
- 𝑀𝑜𝒹𝑒      :  𝒞𝑜𝒹𝒾𝓃𝑔  &  𝐼𝓃𝓃𝑜𝓋𝒶𝓉𝒾𝓃𝑔
- 𝒞𝒫𝒰       :  ████████████████████  100%
- 𝐵𝓊𝑔𝓈      :  𝐸𝓁𝒾𝓂𝒾𝓃𝒶𝓉𝒾𝓃𝑔... 🐛⚡
- 𝒟𝑒𝓅𝓁𝑜𝓎    :  𝑅𝑒𝒶𝒹𝓎  𝒻𝑜𝓇  𝒫𝓇𝑜𝒹𝓊𝒸𝓉𝒾𝑜𝓃
- 𝒮𝓉𝒶𝓉𝓊𝓈    :  🚀  𝒜𝓁𝓌𝒶𝓎𝓈  𝐵𝓊𝒾𝓁𝒹𝒾𝓃𝑔
-```
+```text𝒰𝓈𝑒𝓇      :  𝒮𝑜𝓊𝓋𝒾𝓀  𝒦𝓊𝓃𝒹𝓊𝑀𝑜𝒹𝑒      :  𝒞𝑜𝒹𝒾𝓃𝑔  &  𝐼𝓃𝓃𝑜𝓋𝒶𝓉𝒾𝓃𝑔𝒞𝒫𝒰       :  ████████████████████  100%𝐵𝓊𝑔𝓈      :  𝐸𝓁𝒾𝓂𝒾𝓃𝒶𝓉𝒾𝓃𝑔... 🐛⚡𝒟𝑒𝓅𝓁𝑜𝓎    :  𝑅𝑒𝒶𝒹𝓎  𝒻𝑜𝓇  𝒫𝓇𝑜𝒹𝓊𝒸𝓉𝒾𝑜𝓃𝒮𝓉𝒶𝓉𝓊𝓈    :  🚀  𝒜𝓁𝓌𝒶𝓎𝓈  𝐵𝓊𝒾𝓁𝒹𝒾𝓃𝑔```
 
 </div>
 
 <br/>
 
 <!-- CONNECT & SOCIALS -->
+
 <h2 align="center">🤝 Connect & Collaborate</h2>
 
 <div align="center">
@@ -206,13 +193,13 @@
   <a href="https://github.com/Souvik7661">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/souvik-kundu-0277593b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:souvikkundu@example.com">
+  <a href="https://github.com/Souvik7661">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com">
+  <a href="https://github.com/Souvik7661">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
@@ -222,9 +209,9 @@
 <br/>
 
 <!-- FOOTER BANNER -->
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:7C3AED,50:06B6D4,100:000428"/>
-  
   <p align="center">
     <i>⭐️ Crafted with passion & precision by <b>Souvik Kundu</b> · Powered by Code & Coffee ☕️</i>
   </p>
