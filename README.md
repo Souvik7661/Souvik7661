@@ -1,149 +1,186 @@
-<div align="center">
+# Hi, I'm Souvik Kundu 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
-  <img src="./dark.svg" alt="Souvik Kundu — Computer Science Engineer &amp; Full-Stack Developer Profile Hero" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Souvik Kundu — Computer Science Engineer, Full-Stack Developer and AI Systems Builder">
 </picture>
 
-</div>
-
----
-
-### 👨‍💻 Executive Summary
-
-> **Computer Science Engineering Student** passionate about engineering scalable, production-grade software and solving real-world challenges. Specializing in **Full-Stack Development**, **AI-Powered Systems**, and **Fluid Native Mobile Experiences**.
-
-```bash
-souvik@workstation:~$ ./status --active
-[●] STATUS     : ONLINE · Actively Shipping Real-World Systems
-[●] FOCUS      : Scalable Web Architectures · Machine Learning Integrations · Native Android
-[●] EDUCATION  : B.Tech in Computer Science & Engineering
-[●] LOCATION   : India
-```
-
----
-
-### 🚀 Featured Systems & Flagship Repositories
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🏥 <a href="https://github.com/Souvik7661/CareFlow">CareFlow</a></h3>
-      <p>AI-powered hospital management platform that streamlines patient registration, symptom-based doctor recommendations, intelligent queue optimization, and prescription flows into a unified clinical system.</p>
-      <p>
-        <code>TypeScript</code> · <code>Next.js</code> · <code>Healthcare AI</code> · <code>Scalable Queue</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🚗 <a href="https://github.com/Souvik7661/CARX">CARX</a></h3>
-      <p>AI vehicle intelligence platform that evaluates vehicle records, service history, wear, fair market value, and repair risks to output an explainable <i>BUY</i>, <i>NEGOTIATE</i>, or <i>AVOID</i> decision.</p>
-      <p>
-        <code>TypeScript</code> · <code>AI Analytics</code> · <code>Document Intelligence</code> · <code>Full-Stack</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🌦️ <a href="https://github.com/Souvik7661/Weather">Weather</a></h3>
-      <p>Modern, ultra-fluid Android application crafted in Jetpack Compose with custom 60fps atmospheric particle physics (rain on glass, volumetric lightning, 3D snow) and frosted-glass forecast UI.</p>
-      <p>
-        <code>Kotlin</code> · <code>Jetpack Compose</code> · <code>Particle Physics</code> · <code>Geocoding</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">👁️ <a href="https://github.com/Souvik7661/MacSight">MacSight</a></h3>
-      <p>Native macOS Face ID-style biometric security system utilizing computer vision and local facial recognition for privacy-focused, zero-cloud access control and authentication.</p>
-      <p>
-        <code>Swift</code> · <code>macOS Native</code> · <code>Biometrics</code> · <code>Computer Vision</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🚑 <a href="https://github.com/Souvik7661/SmartCare">SmartCare</a></h3>
-      <p>IoT and AI platform creating emergency green corridors for ambulances through real-time traffic signal preemption, nearby driver alerts, and live hospital ETA broadcasting.</p>
-      <p>
-        <code>TypeScript</code> · <code>IoT Corridors</code> · <code>Real-time GPS</code> · <code>Smart City</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🍳 <a href="https://github.com/Souvik7661/Pantry-Chef">Pantry-Chef</a></h3>
-      <p>AI-driven recipe assistant that transforms available pantry ingredients into tailored meal plans, smart grocery shopping lists, and step-by-step culinary guidance.</p>
-      <p>
-        <code>Kotlin</code> · <code>Android</code> · <code>Recipe AI</code> · <code>Nutrition Tracking</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Core Engineering Stack
-
-```text
-LANGUAGES    ▸  Java  ·  Python  ·  TypeScript  ·  JavaScript  ·  Kotlin  ·  C / C++
-FRONTEND     ▸  React.js  ·  Next.js  ·  Tailwind CSS  ·  Jetpack Compose  ·  HTML5 / CSS3
-BACKEND      ▸  Node.js  ·  Spring Boot  ·  Django  ·  REST APIs  ·  Microservices
-DATABASES    ▸  PostgreSQL  ·  MySQL  ·  Database Optimization
-CLOUD & OPS  ▸  Docker  ·  AWS  ·  Linux Environment  ·  Git & GitHub Actions
-AI & VISION  ▸  OpenCV  ·  MediaPipe  ·  LLM APIs  ·  Computer Vision Pipelines
-```
+<p align="center">
+  <b>Computer Science Engineer · Full-Stack Developer · Systems &amp; 60fps Mobile Builder</b>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,react,kotlin,spring,postgres,mysql,docker,aws,linux,git&perline=12" alt="Skill Icons" />
+  ☕ Java &nbsp;·&nbsp; 🐍 Python &nbsp;·&nbsp; ⚛️ React &nbsp;·&nbsp; 📱 Kotlin (Compose)
+  &nbsp;·&nbsp; ⚙️ Node.js &nbsp;·&nbsp; 🐳 Docker &nbsp;·&nbsp; ☁️ AWS &nbsp;·&nbsp; 🧠 Computer Vision
+</p>
+
+I build **scalable full-stack applications, intelligent AI systems, real-time computer vision tools, and ultra-fluid 60fps native mobile experiences**.
+
+My current engineering interests sit at the intersection of **Full-Stack Architectures, Java &amp; Spring Boot, Python &amp; AI / Computer Vision, Kotlin &amp; Jetpack Compose, and Cloud Infrastructure**.
+
+---
+
+## 🤖 What I Build
+
+- 🧠 **AI & Computer Vision Applications** — real-time gesture controllers, webcam vision systems, OpenCV and MediaPipe pipelines
+- ⚛️ **Full-Stack Web Platforms** — healthcare platforms (CareFlow), automotive intelligence (CARX), React & TypeScript architectures
+- 📱 **Ultra-Fluid Android Apps** — 60fps Jetpack Compose native apps with particle physics simulations and frosted glass UIs (Weather)
+- ⚙️ **Backend & Distributed Systems** — REST APIs, Spring Boot microservices, Node.js, and database optimization
+- 🔐 **Native Security & Biometrics** — local face recognition and macOS biometric authentication systems (MacSight)
+- 🚑 **Smart City & IoT Corridors** — real-time GPS signal preemption and emergency vehicle routing (SmartCare)
+- 📈 **Performance & System Design** — 60fps physics, clean component architectures, and responsive workflows
+
+---
+
+## 💼 Experience & Academics
+
+### Computer Science & Engineering Undergraduate
+**B.Tech in Computer Science & Engineering**
+
+Working across modern software engineering with a primary focus on **full-stack architecture, machine learning integration, and high-performance native apps**.
+
+- Building production-quality applications with **React, TypeScript, Next.js, and Tailwind CSS**
+- Engineering backend services and REST APIs with **Java, Spring Boot, Python, and Node.js**
+- Developing fluid native Android applications with **Kotlin and Jetpack Compose featuring 60fps particle physics**
+- Constructing computer vision pipelines using **OpenCV and MediaPipe** for touch-free gesture ecosystems
+- Architecting database schemas and query performance with **PostgreSQL and MySQL**
+- Managing cloud and container workflows with **Docker, AWS, Git, and Linux**
+- Maintaining **17+ public repositories** spanning full-stack, systems, mobile, and AI
+
+---
+
+## 🧩 Featured Projects
+
+### 🏥 CareFlow — AI-Powered Hospital Management
+[GitHub Repository](https://github.com/Souvik7661/CareFlow)
+
+AI-powered hospital management platform that streamlines patient registration, triage, and doctor availability.
+
+- Symptom-based doctor recommendation and automated queue optimization
+- Integrated medical records, prescriptions, and digital patient flow
+- Secure, scalable healthcare workflow architecture
+- **TypeScript · React · Next.js · Queue Optimization · Healthcare AI**
+
+### 🚗 CARX — AI Vehicle Intelligence Platform
+[GitHub Repository](https://github.com/Souvik7661/CARX)
+
+AI-powered automotive intelligence platform that evaluates vehicle records, service history, and condition to guide used car purchases.
+
+- Analyzes damage reports, mileage, fair market value, and repair risks
+- Delivers explainable *BUY*, *NEGOTIATE*, or *AVOID* recommendations
+- Document intelligence and structured decision-making pipeline
+- **TypeScript · Full-Stack · AI Intelligence · Data Analytics**
+
+### 🌦️ Weather — 60fps Jetpack Compose Android App
+[GitHub Repository](https://github.com/Souvik7661/Weather)
+
+Modern, ultra-fluid Android weather app featuring real-time atmospheric particle physics.
+
+- 60fps particle physics simulation: dripping rain on glass, volumetric lightning, and 3D snow
+- Dual-tier GPS geocoding, contextual weather advisories, and frosted glass 24h forecast pill
+- Clean architecture with Jetpack Compose and modern Android best practices
+- **Kotlin · Jetpack Compose · Atmospheric Physics · Android SDK**
+
+### 👁️ MacSight — Native macOS Biometric Face Authentication
+[GitHub Repository](https://github.com/Souvik7661/MacSight)
+
+macOS Face ID–style biometric authentication system using local facial recognition.
+
+- Privacy-focused zero-cloud on-device face recognition
+- Seamless native authentication and macOS device integration
+- **Swift · macOS Native · Computer Vision · Local Biometrics**
+
+### 🖐️ VirtualMouse & Gesture Simulation
+[GitHub Repository](https://github.com/Souvik7661/VirtualMouse)
+
+Touch-free PC controller and real-time particle physics simulation driven by webcam hand tracking.
+
+- Real-time hand tracking, air clicks, gesture-mapped force fields (gravity well, scatter, freeze)
+- Pure in-browser and local Python execution using OpenCV & MediaPipe
+- **Python · OpenCV · MediaPipe · React · Canvas API**
+
+---
+
+## 🛠️ Engineering Stack
+
+### ☕ Languages
+`Java` `Python` `TypeScript` `JavaScript` `Kotlin` `C / C++` `Swift` `SQL`
+
+### ⚛️ Frontend & Mobile
+`React` `Next.js` `Jetpack Compose` `Android SDK` `Tailwind CSS` `HTML5 / CSS3` `Canvas API`
+
+### ⚙️ Backend
+`Node.js` `Express` `Spring Boot` `Django` `REST APIs` `Microservices`
+
+### 🗄️ Databases
+`PostgreSQL` `MySQL` `MongoDB` `Database Design`
+
+### ☁️ Cloud & DevOps
+`Docker` `AWS` `Linux` `Git` `GitHub Actions` `Nginx`
+
+### 🧠 AI & Computer Vision
+`OpenCV` `MediaPipe` `Machine Learning` `LLM APIs` `Particle Simulation`
+
+### 🏗️ Architecture & Concepts
+`System Design` `Object-Oriented Programming (OOP)` `Data Structures & Algorithms` `Clean Architecture` `60fps Native UI`
+
+---
+
+## ✍️ Technical Focus & Engineering Principles
+
+I focus on **systems performance, full-stack scalability, 60fps mobile physics, and real-world AI applications**:
+
+- **Real-Time Physics & Graphics** — Designing 60fps interactive particle physics in Jetpack Compose and Canvas
+- **Computer Vision Pipelines** — Building contactless human-computer interfaces using OpenCV and MediaPipe
+- **Clean Architecture & Resilience** — Writing modular backends with Java, Spring Boot, and Node.js
+- **Practical AI Applications** — Integrating machine learning models for document analysis, diagnostics, and workflow automation
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Souvik7661&theme=tokyonight&hide_border=true" alt="Souvik Kundu's GitHub Streak">
+</p>
+
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://ghchart.rshah.org/38bdf8/Souvik7661"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://ghchart.rshah.org/0284c7/Souvik7661"
+    />
+    <img
+      alt="Souvik Kundu's GitHub Contribution Graph"
+      src="https://ghchart.rshah.org/38bdf8/Souvik7661"
+    />
+  </picture>
 </p>
 
 ---
 
-### 📈 Activity & Engineering Pulse
-
-<div align="center">
+## 🎧 Now Playing & Vibe
 
 <p align="center">
-  <img height="175em" src="https://streak-stats.demolab.com?user=Souvik7661&theme=tokyonight&hide_border=true" alt="Souvik Kundu's GitHub Streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Souvik7661">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/38bdf8/Souvik7661" />
-      <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0284c7/Souvik7661" />
-      <img src="https://ghchart.rshah.org/38bdf8/Souvik7661" alt="Souvik Kundu's GitHub Contribution Graph" />
-    </picture>
-  </a>
-</p>
-
-</div>
-
----
-
-### 🎧 Now Playing & Vibe
-
-<div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dtwed8xlvz466vor52knj6g7g&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
-</div>
+</p>
 
 ---
 
-### 📬 Connect & Collaborate
+## 📫 Connect With Me
 
-<div align="center">
-
-```bash
-~/connect $ ping -c 1 souvikk075@gmail.com
-64 bytes from souvikk075@gmail.com: icmp_seq=1 ttl=64 time=0.042 ms
---- connection established ---
-```
-
-[![GitHub](https://img.shields.io/badge/GitHub-Souvik7661-181717?style=for-the-badge&logo=github)](https://github.com/Souvik7661)
-[![Email](https://img.shields.io/badge/Email-souvikk075%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikk075@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Interactive_Showcase-2563EB?style=for-the-badge&logo=react)](https://github.com/Souvik7661/Portfolio)
-
-<p align="center">
-  <sub>Built with precision · Designed for performance · © 2026 Souvik Kundu</sub>
+<p>
+  🌐 <a href="https://github.com/Souvik7661/Portfolio">Portfolio</a><br>
+  💼 <a href="https://github.com/Souvik7661">GitHub (@Souvik7661)</a><br>
+  📧 <a href="mailto:souvikk075@gmail.com">Email (souvikk075@gmail.com)</a>
 </p>
 
-</div>
+> **Build scalable systems. Write clean code. Ship real-world impact.**
