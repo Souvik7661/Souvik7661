@@ -141,7 +141,11 @@ I focus on **systems performance, full-stack scalability, 60fps mobile physics, 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=Souvik7661&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
+  <img src="https://gh-readme-profile.vercel.app/api?username=Souvik7661&theme=dark" alt="GitHub Profile Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Souvik7661&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <h2 align="center">Contribution Activity</h2>
