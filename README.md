@@ -141,7 +141,7 @@ I focus on **systems performance, full-stack scalability, 60fps mobile physics, 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Souvik7661&theme=tokyonight&hide_border=true" alt="Souvik Kundu's GitHub Streak">
+  <img src="https://gh-readme-profile.vercel.app/api?username=Souvik7661&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
 </p>
 
 <h2 align="center">Contribution Activity</h2>
@@ -150,15 +150,15 @@ I focus on **systems performance, full-stack scalability, 60fps mobile physics, 
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://ghchart.rshah.org/38bdf8/Souvik7661"
+      srcset="https://raw.githubusercontent.com/Souvik7661/Souvik7661/output/github-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://ghchart.rshah.org/0284c7/Souvik7661"
+      srcset="https://raw.githubusercontent.com/Souvik7661/Souvik7661/output/github-snake.svg"
     />
     <img
-      alt="Souvik Kundu's GitHub Contribution Graph"
-      src="https://ghchart.rshah.org/38bdf8/Souvik7661"
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Souvik7661/Souvik7661/output/github-snake.svg"
     />
   </picture>
 </p>
